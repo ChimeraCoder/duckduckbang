@@ -1,5 +1,6 @@
 //document.body.innerHTML = "<h1>Page matches ruleset</h1>";
 
+console.log("loaded bang.js");
 var query = $("#search_form_input").val();
 
 function urlBuilder(query, bang){
@@ -8,7 +9,9 @@ function urlBuilder(query, bang){
 
 function linkBuilder(query, bang){
     var url = urlBuilder(query, bang);
-    return "<button class='button bang-btn' href='" + url + "'>" + bang + "</button>";
+    var val = "<a class='button bang-btn' href='" + url + "'>" + bang + "</a>";
+    console.log(val)
+    return val
 }
 
 $("#links").prepend(linkBuilder(query, "!yt"));
