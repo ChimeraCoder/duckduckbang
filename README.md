@@ -1,5 +1,11 @@
+DuckDuckBang
+==============
+
+![](https://github.com/ChimeraCoder/duckduckgobang/blob/icon/icon.png)
+
 Testing
 -------
+
 
 1. Install the Firefox addon SDK from: https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation
 
@@ -13,4 +19,5 @@ Testing
 <span style="color: #FDA800">\_-\_-\_-\_-\_-\_-\_-</span>|   /\\\_/\
 <span style="color: #54FF00">-\_-\_-\_-\_-\_-\_-</span>~|\_\_( ^ .^)
 <span style="color: #6E32FF">\_-\_-\_-\_-\_-\_-\_-</span>""  ""
-</div>
+</pre>
+
