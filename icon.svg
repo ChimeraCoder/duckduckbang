@@ -14,7 +14,10 @@
    id="svg5936"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="icon-large.png"
+   inkscape:export-filename="/home/phoenix/programming/javascript/ddgextension/icon-large.png"
+   inkscape:export-xdpi="2000.625"
+   inkscape:export-ydpi="2000.625">
   <defs
      id="defs5938" />
   <sodipodi:namedview
@@ -22,7 +25,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
      inkscape:cx="35.503083"
@@ -60,6 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,7 +96,7 @@
        d="m 29.708203,41 a 4.8541021,3 0 1 1 -9.708204,0 4.8541021,3 0 1 1 9.708204,0 z" />
     <path
        sodipodi:type="arc"
-       style="fill:#f9ce02;fill-opacity:0.94117647;fill-rule:evenodd;stroke:#65bc46;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#f9ce02;fill-opacity:0.94117647000000004;fill-rule:evenodd;stroke:#65bc46;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3782"
        sodipodi:cx="14"
        sodipodi:cy="42"
@@ -101,7 +105,7 @@
        d="m 18,42 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(11,-2)" />
     <path
-       style="fill:none;stroke:#fefaf9;stroke-width:0.153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#fefaf9;stroke-width:0.45300000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.94117647000000004;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 18.403379,3.4033787 2.111028,29.1533403 9.097457,0.0058 1.995806,-29.1701889 z"
        id="path5948-2"
        inkscape:connector-curvature="0"
