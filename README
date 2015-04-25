@@ -1,0 +1,31 @@
+DuckDuckBang
+==============
+
+![](https://github.com/ChimeraCoder/duckduckgobang/blob/icon/icon.png)
+
+DuckDuckBang is an unofficial Firefox add-on that adds buttons for quickly making (!bang queries)[https://duckduckgo.com/bang.html).
+
+Typing !w is easy on a desktop, but cumbersome on mobile devices. With DuckDuckBang, making a `!bang` query is as easy as tapping a button.
+
+Development & Testing
+-------
+
+
+1. Install the Firefox addon SDK from: https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation
+
+2. Deploy to desktop with `cfx run`
+
+   Deploy to mobile with `cfx run -a fennec-on-device -b /usr/bin/adb --mobile-app firefox --force-mobile`
+
+3. Yay!
+<pre style="background-color: #444; color: white; width: 15em">
+<span style="color: #FB1E00">-\_-\_-\_-\_-\_-\_-\_</span>,------,
+<span style="color: #FDA800">\_-\_-\_-\_-\_-\_-\_-</span>|   /\\\_/\
+<span style="color: #54FF00">-\_-\_-\_-\_-\_-\_-</span>~|\_\_( ^ .^)
+<span style="color: #6E32FF">\_-\_-\_-\_-\_-\_-\_-</span>""  ""
+</pre>
+
+
+###### Disclaimer
+
+DuckDuckBang is an unofficial extension and not affiliated with DuckDuckGo.

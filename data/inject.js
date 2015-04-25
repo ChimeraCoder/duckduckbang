@@ -28,8 +28,9 @@ const inject = (query) => {
 
 
     const containerElement = linksElement.parentElement;
-    containerElement.insertBefore(linkBuilder(query, '!yt'), linksElement);
     containerElement.insertBefore(linkBuilder(query, '!g'), linksElement);
+    containerElement.insertBefore(linkBuilder(query, '!w'), linksElement);
+    containerElement.insertBefore(linkBuilder(query, '!yt'), linksElement);
 }
 
 if(searchElement !== null && linksElement !== null) {
