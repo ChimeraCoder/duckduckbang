@@ -1,11 +1,11 @@
-DuckDuckBang
+DuckDuck*Bang!*
 ==============
 
 ![](https://github.com/ChimeraCoder/duckduckgobang/blob/icon/icon.png)
 
-DuckDuckBang is an unofficial Firefox add-on that adds buttons for quickly making (!bang queries)[https://duckduckgo.com/bang.html).
+DuckDuck*Bang!* is an unofficial Firefox add-on that adds buttons for quickly making (!bang queries)[https://duckduckgo.com/bang.html).
 
-Typing !w is easy on a desktop, but cumbersome on mobile devices. With DuckDuckBang, making a `!bang` query is as easy as tapping a button.
+Typing `!w` is easy on a desktop, but cumbersome on mobile devices. With DuckDuck*Bang!*, making a `!bang` query is as easy as tapping a button.
 
 Development & Testing
 -------
@@ -28,4 +28,4 @@ Development & Testing
 
 ###### Disclaimer
 
-DuckDuckBang is an unofficial extension and not affiliated with DuckDuckGo.
+DuckDuck*Bang!* is an unofficial extension and not affiliated with DuckDuckGo.
