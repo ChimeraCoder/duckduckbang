@@ -3,7 +3,7 @@ DuckDuck*Bang!*
 
 ![](https://github.com/ChimeraCoder/duckduckgobang/blob/icon/icon.png)
 
-DuckDuck*Bang!* is an unofficial Firefox add-on that adds buttons for quickly making (!bang queries)[https://duckduckgo.com/bang.html).
+DuckDuck*Bang!* is an unofficial Firefox add-on that adds buttons for quickly making [!bang queries](https://duckduckgo.com/bang.html).
 
 Typing `!w` is easy on a desktop, but cumbersome on mobile devices. With DuckDuck*Bang!*, making a `!bang` query is as easy as tapping a button.
 
@@ -24,6 +24,11 @@ Development & Testing
 <span style="color: #54FF00">-\_-\_-\_-\_-\_-\_-</span>~|\_\_( ^ .^)
 <span style="color: #6E32FF">\_-\_-\_-\_-\_-\_-\_-</span>""  ""
 </pre>
+
+
+###### License
+
+DuckDuck*Bang!* is provided under version 2 of the Mozilla Public License.
 
 
 ###### Disclaimer
