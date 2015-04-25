@@ -17,7 +17,16 @@ const linkBuilder = (query, bang) => {
     return a;
 }
 
+
+
 const inject = (query) => {
+    var css = document.createElement("style");
+    css.type = "text/css";
+    css.innerHTML = ".bang-btn { margin: 20px; }";
+    document.body.appendChild(css);
+
+
+
     const containerElement = linksElement.parentElement;
     containerElement.insertBefore(linkBuilder(query, '!yt'), linksElement);
     containerElement.insertBefore(linkBuilder(query, '!g'), linksElement);
