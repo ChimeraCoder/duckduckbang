@@ -2,6 +2,7 @@
 
 const searchElement = document.getElementById('search_form_input')
 const linksElement = document.getElementById('links');
+const styling = ".bang-btn { margin: 20px; }";
 
 const urlBuilder = (query, bang) => {
     return "https://duckduckgo.com/?q=" + bang + "%20" + query;
@@ -22,7 +23,7 @@ const linkBuilder = (query, bang) => {
 const inject = (query) => {
     var css = document.createElement("style");
     css.type = "text/css";
-    css.innerHTML = ".bang-btn { margin: 20px; }";
+    css.textContent = styling;
     document.body.appendChild(css);
 
 
